@@ -1,4 +1,4 @@
-# Pattern_Designing_in_C
+# Pattern_Designing
 Pattern Designing in C++ 
 
 First Program is 
@@ -8,7 +8,7 @@ Second Program is
 ![prg _02](https://user-images.githubusercontent.com/78692972/146575513-72ffe810-17c2-499e-8709-ab1bbbf7ab61.jpg)
 
 Third Program is 
-![PRG_03](https://user-images.githubusercontent.com/78692972/146575842-3a44a3a2-44ba-465e-9001-3165c7379a90.jpg)
+![PRG_03](https://user-images.githubusercontent.com/78692972/146577211-c93431f7-3803-40c6-ae03-a5517ea09482.jpg)
 
 Fourth Program is 
 ![PRG_04](https://user-images.githubusercontent.com/78692972/146575944-e29cc9f6-bf56-4f1b-b722-c1a3548e55e6.jpg)
