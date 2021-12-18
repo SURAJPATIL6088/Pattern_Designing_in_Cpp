@@ -9,6 +9,7 @@ int main()
 
     for (int i = 0; i <= n; i++)
     {
+        // upper triangle
         for (int k = n - i; k > 0; k--)
         {
             cout << " ";
@@ -20,6 +21,7 @@ int main()
         cout << endl;
     }
 
+    // lower triangle
     for (int i =1; i < n; i++)
     {
         for (int k = i; k>0; k--)
